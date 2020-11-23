@@ -1,1 +1,1 @@
-module.exports =  RIOT_KEY = 'RGAPI-fc229a7f-9d0a-4c8f-803f-bf3f60a134c4';
+module.exports =  RIOT_KEY = 'RGAPI-076828d1-9d48-451d-83b3-cb126f3acdca';
